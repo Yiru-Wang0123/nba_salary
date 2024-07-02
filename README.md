@@ -1,8 +1,8 @@
 # Existence and Extent of Pay Discrimination Based on Players’ Race and Nationality in NBA: 35 Years of Historical Data
 
-Yiru Wang<sup>1<sup>, Daniel Sailofsky<sup>1<sup>
+Yiru Wang<sup>1</sup>, Daniel Sailofsky<sup>1</sup>
 
-<sup>1University of Toronto
+<sup>1</sup>University of Toronto
 
 **Target Audiences**: academia, coaches, athletes, industry
 
